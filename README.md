@@ -37,6 +37,25 @@
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 <div>
+
+ ---
+ 
+| Amber And Wasemm General Trading LLC| (21/02/2018 - till date) |
+|:---------:|:----------------------------------:|
+| Assistant Engineer | Embedded Product Development |
+
+| Techknowledge Education Solutions | Period of work (10/03/2013 - 08/08/2017) |
+|:---------:|:----------------------------------:|
+| Senior Programmer | Embedded Product Development |
+
+| Sosaley Technologies Pvt Ltd | Period of work (03/03/2011 - 30/04/2013) |
+|:---------:|:----------------------------------:|
+| Engineer R&D | Embedded Product Development |
+
+| White House Business Solutions Pvt Ltd | Period of work (01/08/2007 - 07/07/2010) |
+|:---------:|:----------------------------------:|
+| Hardware Design Engineer | Embedded Product Development |
+
  ---
 
 ### :hammer_and_wrench: Languages and Tools :
