@@ -4,7 +4,7 @@
   
 <div id="badges">
   
-  <a href="your-linkedin-URL">
+  <a href="https://ae.linkedin.com/in/abdul-hameed-ashique-778a3263">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="your-youtube-URL">
@@ -34,7 +34,7 @@
 
 - :zap: In my free time, I will be free from technical things.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://ae.linkedin.com/in/abdul-hameed-ashique-778a3263)
 
 <div>
 
@@ -69,6 +69,7 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ashique1984&theme=horizon)](https://git.io/streak-stats)
+
 ---
 
 ### :writing_hand: Blog Posts :
