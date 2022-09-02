@@ -34,7 +34,7 @@
 
 - :zap: In my free time, I will be free from technical things.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://ae.linkedin.com/in/abdul-hameed-ashique-778a3263)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://ae.linkedin.com/in/abdul-hameed-ashique-778a3263)
 
 <div>
 
