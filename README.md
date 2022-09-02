@@ -40,7 +40,7 @@
 
  ---
  
-| Amber And Wasemm General Trading LLC| (21/02/2018 - till date) |
+| Amber And Waseem General Trading LLC| (21/02/2018 - till date) |
 |:---------:|:----------------------------------:|
 | Assistant Engineer | Embedded Product Development |
 
