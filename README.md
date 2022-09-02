@@ -26,7 +26,7 @@
 </div>
 ---
 
-### man_technologist: About Me :
+:man_technologist: About Me :
 :wave:I am an Embedded Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 - :telescope: I’m working as an Embedded Engineer and contributing to designing and developing embedded products.
 
